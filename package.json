@@ -1,0 +1,27 @@
+{
+  "name": "bashjs-core",
+  "version": "0.0.0",
+  "description": "Core functionnalities for ng-bash and bashjs",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ffortier/bashjs-core.git"
+  },
+  "author": "Francis Fortier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ffortier/bashjs-core/issues"
+  },
+  "homepage": "https://github.com/ffortier/bashjs-core",
+  "dependencies": {
+    "pegjs": "^0.8.0",
+    "q": "^1.0.1"
+  },
+  "devDependencies": {
+    "istanbul": "^0.2.11",
+    "jasmine-node": "^1.14.3"
+  }
+}
